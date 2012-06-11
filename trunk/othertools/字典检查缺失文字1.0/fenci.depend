@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1294331346 source:/home/lynx/桌面/fenci/src/assertion.c
+	<wchar.h>
+	<ctype.h>
+	<string.h>
+	"../include/defination.h"
+
+1294331315 /home/lynx/桌面/fenci/include/defination.h
+	<wchar.h>
+
+1294331614 source:/home/lynx/桌面/fenci/src/mydic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/mydic.h"
+
+1294331558 /home/lynx/桌面/fenci/include/mydic.h
+
+1294334322 source:/home/lynx/桌面/fenci/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/mydic.h"
+
+1294334961 source:/home/lynx/桌面/fenci/src/participle.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/mydic.h"
+	"../include/assertion.h"
+
+1294331306 /home/lynx/桌面/fenci/include/assertion.h
+
