@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include/mydic.h" open="0" top="0" tabpos="3">
+		<Cursor position="327" topLine="0" />
+	</File>
+	<File name="include/participle.h" open="0" top="0" tabpos="0">
+		<Cursor position="64" topLine="0" />
+	</File>
+	<File name="src/main.c" open="1" top="0" tabpos="1">
+		<Cursor position="724" topLine="6" />
+	</File>
+	<File name="src/mydic.c" open="0" top="0" tabpos="4">
+		<Cursor position="704" topLine="30" />
+	</File>
+	<File name="src/participle.c" open="1" top="1" tabpos="2">
+		<Cursor position="7106" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

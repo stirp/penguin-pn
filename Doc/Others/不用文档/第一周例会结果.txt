@@ -1,0 +1,10 @@
+typedef long int lint64;//定义64位整型
+typedef char cchar;//定义中文类型，以后会改
+
+王栋王长海：	cchar *readfile(cchar *str,lint64 n);//根据str字符串，打开该字符串指向的文本，并返回其内所有的字符。
+		lint64 countChinese(cchar *str,lint64 n);//统计str字符串中的中文字符个数，并将个数返回。不能修改str字符串。
+秦子童庞博：	lint64 countEnglish(cchar *str,lint64 n);//统计str字符串中的英文字符个数，并将个数返回。不能修改str字符串。
+		lint64 countOthers(cchar *str,lint64 n);//统计str字符串中的其它字符个数，并将个数返回。不能修改str字符串。
+邹永平肖洒：	lint64 countNumber(cchar *str,lint64 n);//统计str字符串中的数字字符个数，并将个数返回。不能修改str字符串。
+		lint64 countSign(cchar *str,lint64 n);//统计str字符串中的符号字符个数，并将个数返回。不能修改str字符串。符号包括……（2个字符） 。 ， ？ ‘ “ ！ ； ：（全部中文字符）。其它不予考虑。
+尚壬鹏：		void writefile(cchar *str,lint64 n);//根据str字符串，将结果写入该字符串指向的文本。

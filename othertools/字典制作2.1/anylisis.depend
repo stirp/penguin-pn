@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1294151461 source:f:\lynx\anylisis\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294125400 e/opendic.h"
+
+1294066332 f:\lynx\anylisis\include\defination.h
+	<wchar.h>
+
+1294066332 
+
+1294033975 f:\lynx\anylisis\include\dicfunction.h
+	<stdio.h>
+	"../include/defination.h"
+
+1294033975 e/defination.h"
+
+1294149150 source:f:\lynx\anylisis\src\opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294122008 f:\lynx\anylisis\include\opendic.h
+
+1294121997 source:c:\documents and settings\lynx\desktop\anylisis\src\opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294066332 c:\documents and settings\lynx\desktop\anylisis\include\defination.h
+	<wchar.h>
+
+1294122008 c:\documents and settings\lynx\desktop\anylisis\include\opendic.h
+
+1294125400 source:c:\documents and settings\lynx\desktop\anylisis\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294149150 source:/home/lynx/anylisis/src/opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294066332 /home/lynx/anylisis/include/defination.h
+	<wchar.h>
+
+1294122008 /home/lynx/anylisis/include/opendic.h
+
+1294325498 source:/home/lynx/桌面/字典制作2.0(增加了qsort和二分查找)，ubuntu版/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294325161 /home/lynx/桌面/字典制作2.0(增加了qsort和二分查找)，ubuntu版/include/defination.h
+	<wchar.h>
+
+1294122008 /home/lynx/桌面/字典制作2.0(增加了qsort和二分查找)，ubuntu版/include/opendic.h
+
+1294325422 source:/home/lynx/桌面/字典制作2.0(增加了qsort和二分查找)，ubuntu版/src/opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294378621 source:/home/lynx/桌面/字典制作2.0/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294339754 /home/lynx/桌面/字典制作2.0/include/defination.h
+	<wchar.h>
+
+1294339748 /home/lynx/桌面/字典制作2.0/include/opendic.h
+
+1294378534 source:/home/lynx/桌面/字典制作2.0/src/opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294379192 source:/home/lynx/mk/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294339754 /home/lynx/mk/include/defination.h
+	<wchar.h>
+
+1294339748 /home/lynx/mk/include/opendic.h
+
+1294379232 source:/home/lynx/mk/src/opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294379192 source:/home/lynx/桌面/字典制作/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
+1294339754 /home/lynx/桌面/字典制作/include/defination.h
+	<wchar.h>
+
+1294339748 /home/lynx/桌面/字典制作/include/opendic.h
+
+1294379995 source:/home/lynx/桌面/字典制作/src/opendic.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<string.h>
+	"../include/defination.h"
+	"../include/opendic.h"
+
